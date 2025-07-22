@@ -1,5 +1,5 @@
 {% set name = "NRSS" %}
-{% set version = "2025.06.14.01" %}
+{% set version = "2025.6.14.1" %} # note to maintainers - no leading zeros here
 {% set python_min = "3.10" %}
 
 package:
