@@ -22,7 +22,7 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
-    - pyhyperscattering-gpu >=0.2.10
+    - pyhyperscattering-gpu
     - numpy
     - scipy
     - scikit-image
