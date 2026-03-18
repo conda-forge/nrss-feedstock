@@ -1,5 +1,5 @@
 {% set name = "NRSS" %}
-{% set version = "2026.03.15.03" %}
+{% set version = "2026.03.17.01" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/usnistgov/NRSS/archive/{{ version }}.tar.gz
-  sha256: 6625c9fdd49c278ac48db7f9b1caf418643715d151cd1cf98caa3de71ca5c9f3
+  sha256: b751f7298f46ef383c30029bb7f3b3c436006b11931a71565cb3d7ec39e24765
 
 build:
   noarch: python
